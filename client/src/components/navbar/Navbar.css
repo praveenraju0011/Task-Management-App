@@ -1,0 +1,19 @@
+.user-png{
+    width: 30px;
+    height: 30px;
+}
+.navbar-brand{
+    color: rgb(255, 0, 0);
+}
+.app-icon{
+    width: 25px;
+    height: 25px;
+    margin-left: 7px;
+}
+
+.btn-nav{
+    background-color: red;
+    border-radius: 5px;
+    color: white !important;
+    font-weight: bold;
+}
